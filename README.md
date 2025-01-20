@@ -1,0 +1,2 @@
+1. Find the dataset at : https://drive.google.com/drive/folders/1MkX507GsaqX9w8O5fPd_lVAJKGESoyNe?usp=sharing
+2. Replace YOLO11.yaml inside ultralitycs instalation folder with the modified yaml file in folder "modified_YOLO11"
